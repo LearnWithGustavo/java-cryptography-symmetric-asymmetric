@@ -1,0 +1,2 @@
+POST http://localhost:8080/api/bcrypthash/verify-password?plainPassword=SenhaBCrypt&hashedPassword=dassdasd4fa5sd4fa23sd4f35asd4f3a2sd1fas35df1as32df1asd5f4ds15f
+Content-Type: text/plain

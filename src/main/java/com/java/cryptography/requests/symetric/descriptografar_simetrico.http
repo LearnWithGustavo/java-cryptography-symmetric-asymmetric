@@ -1,0 +1,4 @@
+POST http://localhost:8080/api/symmetric/decrypt
+Content-Type: application/json
+
+sdfasd4fa56sdf4sdf5SDF5SD4f5SD4F5Sd4f5SDFS4f
